@@ -25,4 +25,9 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    public function indexFase1()
+    {
+        return view('fases/index');
+    }
 }
