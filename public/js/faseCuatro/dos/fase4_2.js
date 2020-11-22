@@ -695,5 +695,5 @@ function goToFase4_FaseDosE_veinticuatro() {
 }
 
 function goToFase4_3(){
-    window.location.href = "f4_fase3.html"
+    window.location.href = "/f4_3"
 }

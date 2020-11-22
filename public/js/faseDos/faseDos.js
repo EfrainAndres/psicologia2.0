@@ -12608,5 +12608,5 @@ function goToInstructivoDosA() {
 }
 
 function goToFase3(){
-  window.location.href = "fase3.html"
+  window.location.href = "/f3"
 }

@@ -29625,5 +29625,5 @@ function irCorrectoPreguntaTresG4_seis() {
 }
 
 function goToFase4() {
-  window.location.href = "fase4.html"
+  window.location.href = "/f4"
 }

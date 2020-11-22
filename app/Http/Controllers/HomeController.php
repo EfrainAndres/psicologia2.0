@@ -30,4 +30,34 @@ class HomeController extends Controller
     {
         return view('fases/index');
     }
+
+    public function indexFase2()
+    {
+        return view('fases/fase2');
+    }
+
+    public function indexFase3()
+    {
+        return view('fases/fase3');
+    }
+
+    public function indexFase4()
+    {
+        return view('fases/fase4');
+    }
+
+    public function indexFase4_2()
+    {
+        return view('fases/f4_fase2');
+    }
+
+    public function indexFase4_3()
+    {
+        return view('fases/f4_fase3');
+    }
+
+    public function indexFase5()
+    {
+        return view('fases/fase5');
+    }
 }

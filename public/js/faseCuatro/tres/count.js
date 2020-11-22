@@ -514,7 +514,7 @@ $('.correctJ').on('click', function () {
         console.log(count);
 
         if (count == 2) {
-            window.location.href = "fase4.html"
+            window.location.href = "/f4"
         }
 
     });

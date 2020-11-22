@@ -3336,7 +3336,7 @@ $('.correctH4').on('click', function () {
     if (count == 2) {
       count = 0;
       
-      window.location.href = "fase4.html"
+      window.location.href = "/f4"
     }
 
   });

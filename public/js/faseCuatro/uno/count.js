@@ -12,7 +12,7 @@ $('.incorrect4_1').on('click', function () {
       if (count >= 1) {
         count = 0;
         //Ir a fase 4_2
-        window.location.href = "f4_fase2.html"
+        window.location.href = "/f4_2"
       }
     });
 
@@ -20,7 +20,7 @@ $('.incorrect4_1').on('click', function () {
         if (count >= 1) {
           count = 0;
           //Ir a fase 4_2
-          window.location.href = "f4_fase2.html"
+          window.location.href = "/f4_2"
         }
       });
   });

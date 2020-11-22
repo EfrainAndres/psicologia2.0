@@ -116,5 +116,5 @@ function irGracias() {
 }
 
 function goToFase5() {
-    window.location.href = "fase5.html"
+    window.location.href = "/f5"
 }

@@ -3256,5 +3256,5 @@ function goToJ4_2() {
 }
 
 function goToFase4() {
-    window.location.href = "fase4.html"
+    window.location.href = "/f4"
 }
