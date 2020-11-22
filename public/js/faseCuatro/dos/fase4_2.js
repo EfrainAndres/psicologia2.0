@@ -1,0 +1,699 @@
+function Fase4_faseDosE_uno() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = '';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_dos() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = '';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_tres() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = '';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_cuatro() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = '';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_cinco() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = '';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_seis() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = '';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_siete() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = '';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_ocho() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = '';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_nueve() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = '';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_diez() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = '';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_once() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = '';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_doce() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = '';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_trece() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = '';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_catorce() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = '';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_quince() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = '';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_dieciseis() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = '';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_diecisiete() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = '';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_dieciocho() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = '';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_diecinueve() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = '';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_veinte() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = '';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_veintiuno() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = '';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_veintidos() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = '';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_veintitres() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = '';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = 'none';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_FaseDosE_veinticuatro() {
+    document.getElementById('instructivoCuatro_Dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_uno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_tres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cuatro').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_cinco').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_seis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_siete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_ocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_nueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diez').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_once').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_doce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_trece').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_catorce').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_quince').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciseis').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecisiete').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_dieciocho').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_diecinueve').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinte').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintiuno').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintidos').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veintitres').style.display = 'none';
+    document.getElementById('Fase4_faseDosE_veinticuatro').style.display = '';
+    document.getElementById('gracias').style.display = 'none';
+}
+
+function goToFase4_3(){
+    window.location.href = "f4_fase3.html"
+}
