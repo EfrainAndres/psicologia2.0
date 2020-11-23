@@ -2854,7 +2854,7 @@
                 src="images/o2.png" alt="Fase Cinco Imagen 2"></a>
           </div>
           <div class="four columns text-center a1">
-            <a onclick="irGracias()" id="correct" alt="opciones pregunta 1" class="correctH4"><img
+            <a onclick="goToFase6()" id="correct" alt="opciones pregunta 1" class="correctH4"><img
                 src="images/o1.png" alt="Fase Cinco Imagen 3"></a>
           </div>
         </div>

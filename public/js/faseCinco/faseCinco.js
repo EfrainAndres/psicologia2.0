@@ -28596,6 +28596,6 @@ function irCorrectoPreguntaCincoG4_seis() {
   setTimeout(function () { document.getElementById('gracias3').click(); }, 3000);
 }
 
-function goToFase4() {
-  window.location.href = "fase4.html"
+function goToFase6() {
+  window.location.href = "/f6"
 }

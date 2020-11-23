@@ -32,3 +32,5 @@ Route::get('/f4_2', 'HomeController@indexFase4_2')->name('f4_2');
 Route::get('/f4_3', 'HomeController@indexFase4_3')->name('f4_3');
 
 Route::get('/f5', 'HomeController@indexFase5')->name('f5');
+
+Route::get('/f6', 'Fase6Controller@index')->name('f6');
