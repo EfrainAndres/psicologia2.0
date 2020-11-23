@@ -104,4 +104,6 @@ function irGracias() {
   document.getElementById("fase6_siete").style.display = "none";
   document.getElementById("fase6_ocho").style.display = "none";
   document.getElementById("gracias").style.display = "";
+
+  setTimeout(function() { document.getElementById('hola').click(); }, 1000);
 }

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Answer;
 
 class Fase6Controller extends Controller
 {
@@ -14,6 +15,11 @@ class Fase6Controller extends Controller
     public function index()
     {
         return view('fases/fase6');
+    }
+
+    public function gracias()
+    {
+        return view('fases/gracias');
     }
 
     /**
@@ -34,7 +40,29 @@ class Fase6Controller extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $idUser = auth()->user()->id;
+        $preguntaUno = $request['preguntaUno'];
+        $preguntaDos = $request['preguntaDos'];
+        $preguntaTres = $request['preguntaTres'];
+        $preguntaCuatro = $request['preguntaCuatro'];
+        $preguntaCinco = $request['preguntaCinco'];
+        $preguntaSeis = $request['preguntaSeis'];
+        $preguntaSiete = $request['preguntaSiete'];
+        $preguntaOcho = $request['preguntaOcho'];
+
+        Answer::create( [
+            'idUser' => $idUser,
+            'preguntaUno' => $preguntaUno,
+            'preguntaDos' => $preguntaDos,
+            'preguntaTres' => $preguntaTres,
+            'preguntaCuatro' => $preguntaCuatro,
+            'preguntaCinco' => $preguntaCinco,
+            'preguntaSeis' => $preguntaSeis,
+            'preguntaSiete' => $preguntaSiete,
+            'preguntaOcho' => $preguntaOcho,
+        ]);
+
+        return redirect('/gracias')->with('success','Solicitud Enviada Correctamente');
     }
 
     /**
