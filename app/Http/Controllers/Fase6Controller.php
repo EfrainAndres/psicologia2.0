@@ -50,6 +50,24 @@ class Fase6Controller extends Controller
         $preguntaSiete = $request['preguntaSiete'];
         $preguntaOcho = $request['preguntaOcho'];
 
+        $timeP1_P2 = $request['timeP1_P2'];
+        $timeP2_P3 = $request['timeP2_P3'];
+        $timeP3_P4 = $request['timeP3_P4'];
+        $timeP4_P5 = $request['timeP4_P5'];
+        $timeP5_P6 = $request['timeP5_P6'];
+        $timeP6_P7 = $request['timeP6_P7'];
+        $timeP7_P8 = $request['timeP7_P8'];
+        $timeP8_FIN = $request['timeP8_FIN'];
+
+        $time1_2 = $timeP1_P2;
+        $time2_3 = $timeP2_P3 - $timeP1_P2;
+        $time3_4 = $timeP3_P4 - $timeP2_P3;
+        $time4_5 = $timeP4_P5 -  $timeP3_P4;
+        $time5_6 = $timeP5_P6 -  $timeP4_P5;
+        $time6_7 = $timeP6_P7 -  $timeP5_P6;
+        $time7_8 = $timeP7_P8 -  $timeP6_P7;
+        $time8_9 = $timeP8_FIN -  $timeP7_P8;
+
         Answer::create( [
             'idUser' => $idUser,
             'preguntaUno' => $preguntaUno,
@@ -60,6 +78,15 @@ class Fase6Controller extends Controller
             'preguntaSeis' => $preguntaSeis,
             'preguntaSiete' => $preguntaSiete,
             'preguntaOcho' => $preguntaOcho,
+
+            'timeP1_P2' => $time1_2,
+            'timeP2_P3' => $time2_3,
+            'timeP3_P4' => $time3_4,
+            'timeP4_P5' => $time4_5,
+            'timeP5_P6' => $time5_6,
+            'timeP6_P7' => $time6_7,
+            'timeP7_P8' => $time7_8,
+            'timeP8_FIN' => $time8_9,
         ]);
 
         return redirect('/gracias')->with('success','Solicitud Enviada Correctamente');

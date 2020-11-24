@@ -36,6 +36,16 @@
 
         <form method="post" id="sample" action="{{ route('fase6.store') }}">
             @csrf
+            <input type="hidden" name="timeP1_P2" id="timeP1_P2">
+            <input type="hidden" name="timeP2_P3" id="timeP2_P3">
+            <input type="hidden" name="timeP3_P4" id="timeP3_P4">
+            <input type="hidden" name="timeP4_P5" id="timeP4_P5">
+            <input type="hidden" name="timeP5_P6" id="timeP5_P6">
+            <input type="hidden" name="timeP6_P7" id="timeP6_P7">
+            <input type="hidden" name="timeP7_P8" id="timeP7_P8">
+            <input type="hidden" name="timeP8_FIN" id="timeP8_FIN">
+
+
             <div class="row" id="fase6_uno">
                 <div class="twelve column" style="margin-top: 10%">
                     <p style="text-align: center;">
