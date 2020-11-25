@@ -1,8 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
 {
@@ -23,7 +22,37 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $answerUsers =
+        DB::select(DB::raw("SELECT
+        users.name,
+        answers.preguntaUno,
+        answers.preguntaDos,
+        answers.preguntaTres,
+        answers.preguntaCuatro,
+        answers.preguntaCinco,
+        answers.preguntaSeis,
+        answers.preguntaSiete,
+        answers.preguntaOcho,
+        answers.timeP1_P2,
+        answers.timeP2_P3,
+        answers.timeP3_P4,
+        answers.timeP4_P5,
+        answers.timeP5_P6,
+        answers.timeP6_P7,
+        answers.timeP7_P8,
+        answers.timeP8_FIN
+        FROM
+        users
+        INNER JOIN
+        answers
+        ON
+            users.id = answers.idUser
+        WHERE
+            users.FK_RolesId = 2
+        ORDER BY
+            answers.created_at DESC"));
+
+        return view('home', compact('answerUsers'));
     }
 
     public function indexFase1()
