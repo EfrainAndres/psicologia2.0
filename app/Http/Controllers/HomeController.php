@@ -40,7 +40,8 @@ class HomeController extends Controller
         answers.timeP5_P6,
         answers.timeP6_P7,
         answers.timeP7_P8,
-        answers.timeP8_FIN
+        answers.timeP8_FIN,
+        answers.created_at
         FROM
         users
         INNER JOIN

@@ -56,13 +56,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Dos()"><input value="Correcto" type="checkbox"
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Dos()"><input value="Correcto" type="checkbox"
                                         name="preguntaUno" id="my-id" style="display:none;">Sí</a></label>
 
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Dos()"><input value="Incorrecto" type="checkbox"
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Dos()"><input value="Incorrecto" type="checkbox"
                                         name="preguntaUno" id="my-id" style="display:none;">No</a></label>
                         </div>
                     </div>
@@ -82,13 +82,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Tres()"><input value="Correcto" name="preguntaDos"
-                                        type="checkbox" id="my-id2" style="display:none;">SI</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Tres()"><input value="Correcto" name="preguntaDos"
+                                        type="checkbox" id="my-id2" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Tres()"><input value="Incorrecto" name="preguntaDos"
-                                        type="checkbox" id="my-id2" style="display:none;">NO</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Tres()"><input value="Incorrecto" name="preguntaDos"
+                                        type="checkbox" id="my-id2" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -107,13 +107,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Cuatro()"><input value="Incorrecto" name="preguntaTres"
-                                        type="checkbox" id="my-id3" style="display:none;">SI</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Cuatro()"><input value="Incorrecto" name="preguntaTres"
+                                        type="checkbox" id="my-id3" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Cuatro()"><input value="Correcto" name="preguntaTres"
-                                        type="checkbox" id="my-id3" style="display:none;">NO</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Cuatro()"><input value="Correcto" name="preguntaTres"
+                                        type="checkbox" id="my-id3" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -132,13 +132,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Cinco()"><input value="Incorrecto" name="preguntaCuatro"
-                                        type="checkbox" id="my-id4" style="display:none;">SI</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Cinco()"><input value="Incorrecto" name="preguntaCuatro"
+                                        type="checkbox" id="my-id4" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Cinco()"><input value="Correcto" name="preguntaCuatro"
-                                        type="checkbox" id="my-id4" style="display:none;">NO</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Cinco()"><input value="Correcto" name="preguntaCuatro"
+                                        type="checkbox" id="my-id4" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -157,13 +157,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Seis()"><input value="Correcto" name="preguntaCinco"
-                                        type="checkbox" id="my-id5" style="display:none;">SI</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Seis()"><input value="Correcto" name="preguntaCinco"
+                                        type="checkbox" id="my-id5" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Seis()"><input value="Incorrecto" name="preguntaCinco"
-                                        type="checkbox" id="my-id5" style="display:none;">NO</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Seis()"><input value="Incorrecto" name="preguntaCinco"
+                                        type="checkbox" id="my-id5" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -182,13 +182,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Siete()"><input value="Correcto" name="preguntaSeis"
-                                        type="checkbox" id="my-id6" style="display:none;">SI</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Siete()"><input value="Correcto" name="preguntaSeis"
+                                        type="checkbox" id="my-id6" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Siete()"><input value="Incorrecto" name="preguntaSeis"
-                                        type="checkbox" id="my-id6" style="display:none;">NO</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Siete()"><input value="Incorrecto" name="preguntaSeis"
+                                        type="checkbox" id="my-id6" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -208,13 +208,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irPreguntaSeis_Ocho()"><input value="Incorrecto" name="preguntaSiete"
-                                        type="checkbox" id="my-id7" style="display:none;">SI</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Ocho()"><input value="Incorrecto" name="preguntaSiete"
+                                        type="checkbox" id="my-id7" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irPreguntaSeis_Ocho()"><input value="Correcto" name="preguntaSiete"
-                                        type="checkbox" id="my-id7" style="display:none;">NO</a></label>
+                            <label><a class="correct cprueba4" onclick="irPreguntaSeis_Ocho()"><input value="Correcto" name="preguntaSiete"
+                                        type="checkbox" id="my-id7" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>
@@ -233,13 +233,13 @@
                     <div class="row" style="margin-top: 1em;">
                         <div class="six columns text-left">
 
-                            <label><a onclick="irGracias()"><input value="Incorrecto" name="preguntaOcho"
-                                        type="checkbox" id="my-id8" style="display:none;">SI</a></label>
+                            <label><a class="incorrect iprueba4 incorrect4_1" onclick="irGracias()"><input value="Incorrecto" name="preguntaOcho"
+                                        type="checkbox" id="my-id8" style="display:none;">Si</a></label>
                         </div>
                         <div class="six columns text-right">
 
-                            <label><a onclick="irGracias()"><input value="Correcto" name="preguntaOcho" type="checkbox"
-                                        id="my-id8" style="display:none;">NO</a></label>
+                            <label><a class="correct cprueba4" onclick="irGracias()"><input value="Correcto" name="preguntaOcho" type="checkbox"
+                                        id="my-id8" style="display:none;">No</a></label>
                         </div>
                     </div>
                 </div>

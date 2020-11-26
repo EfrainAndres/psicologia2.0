@@ -132,7 +132,15 @@
             responsive: true,
             dom: 'Bfrtip',
             buttons: [
-                'copy', 'csv', 'excel', 'pdf', 'print'
+                    'copy', 
+                    'csv', 
+                    'excel',
+                    {
+                        extend: 'pdfHtml5',
+                        orientation: 'landscape',
+                        pageSize: 'LEGAL'
+                    }
+                , 'print'
             ],
             initComplete: function() {
                 this.api().columns().every(function() {

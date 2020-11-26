@@ -56,6 +56,7 @@
                                         <th>Tiempo 6 a 7</th>
                                         <th>Tiempo 7 a 8</th>
                                         <th>Tiempo 8 fin</th>
+                                        <th>Fecha</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -78,6 +79,7 @@
                                             <td>{{ $answerUser->timeP6_P7 }} seg</td>
                                             <td>{{ $answerUser->timeP7_P8 }} seg</td>
                                             <td>{{ $answerUser->timeP8_FIN }} seg</td>
+                                            <td>{{ $answerUser->created_at }}</td>
                                         </tr>
                                     @endforeach
                                 </tbody>
