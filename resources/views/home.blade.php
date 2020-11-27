@@ -16,8 +16,8 @@
                         <div class="card-body">
 
                             @php
-                                $iduser = auth()->user()->id;
-                                $exists = DB::table('answers')->where('idUser',$iduser)->first();
+                            $iduser = auth()->user()->id;
+                            $exists = DB::table('answers')->where('idUser',$iduser)->first();
                             @endphp
 
                             @if (!isset($exists))
@@ -25,12 +25,28 @@
                             @else
                                 Has Ingresado, ya realizaste la prueba!
                             @endif
-                            
+
                         </div>
                     </div>
                 @endif
 
                 @if ($rol == 'Administrador')
+
+                    <div class="card">
+                        <div class="card-header">Prueba Psicotécnica!</div>
+
+                        <div class="card-body">
+
+                            @if (!isset($exists))
+                                Has Ingresado, <a href="/f6"> ir a la prueba!</a>
+                            @else
+                                Has Ingresado, ya realizaste la prueba!
+                            @endif
+
+                        </div>
+                    </div>
+
+                    <br><br>
                     <div class="card">
                         <div class="card-header">Resultados Pruebas!</div>
 
