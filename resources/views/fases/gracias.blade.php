@@ -36,7 +36,7 @@
     -->
         <div class="row" id="gracias">
             <div class="twelve column" style="margin-top: 15%;">
-                <h1 class="text-center"><b><a href="#">
+                <h1 class="text-center"><b><a href="/">
                             Gracias por participar</a></b>
                 </h1>
             </div>
