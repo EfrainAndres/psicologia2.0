@@ -54,13 +54,13 @@
                         <img src="images/i2.png" alt="Fase cuatro Imagen 2">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a1">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Dos()"><input value="Correcto" type="checkbox"
                                         name="preguntaUno" id="my-id" style="display:none;">Sí</a></label>
 
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a1">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Dos()"><input value="Incorrecto" type="checkbox"
                                         name="preguntaUno" id="my-id" style="display:none;">No</a></label>
@@ -80,12 +80,12 @@
                         <img src="images/i4.png" alt="Fase cuatro Imagen 4">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a2">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Tres()"><input value="Correcto" name="preguntaDos"
                                         type="checkbox" id="my-id2" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a2">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Tres()"><input value="Incorrecto" name="preguntaDos"
                                         type="checkbox" id="my-id2" style="display:none;">No</a></label>
@@ -105,12 +105,12 @@
                         <img src="images/i6.png" alt="Fase cuatro Imagen 6">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a3">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Cuatro()"><input value="Incorrecto" name="preguntaTres"
                                         type="checkbox" id="my-id3" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a3">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Cuatro()"><input value="Correcto" name="preguntaTres"
                                         type="checkbox" id="my-id3" style="display:none;">No</a></label>
@@ -130,12 +130,12 @@
                         <img src="images/i6.png" alt="Fase cuatro Imagen 8">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a4">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Cinco()"><input value="Incorrecto" name="preguntaCuatro"
                                         type="checkbox" id="my-id4" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a4">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Cinco()"><input value="Correcto" name="preguntaCuatro"
                                         type="checkbox" id="my-id4" style="display:none;">No</a></label>
@@ -155,12 +155,12 @@
                         <img src="images/i6.png" alt="Fase cuatro Imagen 10">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a5">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Seis()"><input value="Correcto" name="preguntaCinco"
                                         type="checkbox" id="my-id5" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a5">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Seis()"><input value="Incorrecto" name="preguntaCinco"
                                         type="checkbox" id="my-id5" style="display:none;">No</a></label>
@@ -180,12 +180,12 @@
                         <img src="images/i9.png" alt="Fase cuatro Imagen 12">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a6">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Siete()"><input value="Correcto" name="preguntaSeis"
                                         type="checkbox" id="my-id6" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a6">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Siete()"><input value="Incorrecto" name="preguntaSeis"
                                         type="checkbox" id="my-id6" style="display:none;">No</a></label>
@@ -206,12 +206,12 @@
                         <img src="images/i11.png" alt="Fase cuatro Imagen 14">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a7">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irPreguntaSeis_Ocho()"><input value="Incorrecto" name="preguntaSiete"
                                         type="checkbox" id="my-id7" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a7">
 
                             <label><a class="correct cprueba4" onclick="irPreguntaSeis_Ocho()"><input value="Correcto" name="preguntaSiete"
                                         type="checkbox" id="my-id7" style="display:none;">No</a></label>
@@ -231,12 +231,12 @@
                         <img src="images/i3.png" alt="Fase cuatro Imagen 16">
                     </p>
                     <div class="row" style="margin-top: 1em;">
-                        <div class="six columns text-left">
+                        <div class="six columns text-left a8">
 
                             <label><a class="incorrect iprueba4 incorrect4_1" onclick="irGracias()"><input value="Incorrecto" name="preguntaOcho"
                                         type="checkbox" id="my-id8" style="display:none;">Si</a></label>
                         </div>
-                        <div class="six columns text-right">
+                        <div class="six columns text-right a8">
 
                             <label><a class="correct cprueba4" onclick="irGracias()"><input value="Correcto" name="preguntaOcho" type="checkbox"
                                         id="my-id8" style="display:none;">No</a></label>
@@ -268,6 +268,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="js/faseSeis/fase6.js"></script>
 <script src="js/faseSeis/logic.js"></script>
+<script src="js/faseSeis/keySeis.js"></script>
 
 <script type="application/javascript">
     function displaySeguir() {
