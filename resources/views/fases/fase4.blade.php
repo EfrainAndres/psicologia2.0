@@ -55,10 +55,10 @@
                     <img src="images/fase4/5.jpg" alt="Fase cuatro Imagen 2">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a1">
                         <a onclick="irPreguntaCuatro_Dos()" alt="si" class="correct cprueba4">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a1">
                         <a onclick="irPreguntaCuatro_Dos()" alt="no" class="incorrect iprueba4 incorrect4_1">No</a>
                     </div>
                 </div>
@@ -76,10 +76,10 @@
                     <img src="images/fase4/6.jpg" alt="Fase cuatro Imagen 4">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a2">
                         <a onclick="irPreguntaCuatro_Tres()" alt="si" class="correct cprueba4">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a2">
                         <a onclick="irPreguntaCuatro_Tres()" alt="no" class="incorrect iprueba4 incorrect4_1">No</a>
                     </div>
                 </div>
@@ -97,10 +97,10 @@
                     <img src="images/fase4/7.jpg" alt="Fase cuatro Imagen 6">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a3">
                         <a onclick="irPreguntaCuatro_Cuatro()" alt="si" class="incorrect iprueba4 incorrect4_1">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a3">
                         <a onclick="irPreguntaCuatro_Cuatro()" alt="no" class="correct cprueba4">No</a>
                     </div>
                 </div>
@@ -118,10 +118,10 @@
                     <img src="images/fase4/13.jpg" alt="Fase cuatro Imagen 8">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a4">
                         <a onclick="irPreguntaCuatro_Cinco()" alt="si" class="incorrect iprueba4 incorrect4_1">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a4">
                         <a onclick="irPreguntaCuatro_Cinco()" alt="no" class="correct cprueba4">No</a>
                     </div>
                 </div>
@@ -139,10 +139,10 @@
                     <img src="images/fase4/13.jpg" alt="Fase cuatro Imagen 10">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a5">
                         <a onclick="irPreguntaCuatro_Seis()" alt="si" class="correct cprueba4">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a5">
                         <a onclick="irPreguntaCuatro_Seis()" alt="no" class="incorrect iprueba4 incorrect4_1">No</a>
                     </div>
                 </div>
@@ -160,10 +160,10 @@
                     <img src="images/fase4/14.jpg" alt="Fase cuatro Imagen 12">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a6">
                         <a onclick="irPreguntaCuatro_Siete()" alt="si" class="correct cprueba4">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a6">
                         <a onclick="irPreguntaCuatro_Siete()" alt="no" class="incorrect iprueba4 incorrect4_1">No</a>
                     </div>
                 </div>
@@ -182,10 +182,10 @@
                     <img src="images/fase4/15.jpg" alt="Fase cuatro Imagen 14">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a7">
                         <a onclick="irPreguntaCuatro_Ocho()" alt="si" class="incorrect iprueba4 incorrect4_1">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a7">
                         <a onclick="irPreguntaCuatro_Ocho()" alt="no" class="correct cprueba4">No</a>
                     </div>
                 </div>
@@ -203,10 +203,10 @@
                     <img src="images/fase4/16.jpg" alt="Fase cuatro Imagen 16">
                 </p>
                 <div class="row" style="margin-top: 1em;">
-                    <div class="six columns text-left">
+                    <div class="six columns text-left a8">
                         <a href="#" id="incorrect8" alt="si" class="incorrect iprueba4 incorrect4_1">Sí</a>
                     </div>
-                    <div class="six columns text-right">
+                    <div class="six columns text-right a8">
                         <a onclick="goToFase5()" id="correct8" alt="no" class="correct cprueba4">No</a>
                     </div>
                 </div>
@@ -232,5 +232,6 @@
 <script src="js/faseCuatro/uno/logic.js"></script>
 <script src="js/faseCuatro/uno/fase4_1.js"></script>
 <script src="js/faseCuatro/uno/count.js"></script>
+<script src="js/faseCuatro/uno/keyCuatro.js"></script>
 
 </html>

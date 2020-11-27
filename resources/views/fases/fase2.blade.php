@@ -1523,7 +1523,7 @@ Fase 2B pregunta 11 texto texto
                     <div class="six columns e11">
                         <a onclick="backToFirstQuestionDosA()" alt="si" class="incorrectCount ipruebaDos">Sí</a>
                     </div>
-                    <div class="six columns 11">
+                    <div class="six columns e11">
                         <a onclick="goToFaseDosE_doce()" alt="no" class="correct cpruebaDos">No</a>
                     </div>
                 </div>
