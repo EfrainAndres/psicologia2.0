@@ -21,7 +21,7 @@
                             @endphp
 
                             @if (!isset($exists))
-                                Has Ingresado, <a href="/f6"> ir a la prueba!</a>
+                                Has Ingresado, <a href="/f1"> ir a la prueba!</a>
                             @else
                                 Has Ingresado, ya realizaste la prueba!
                             @endif
@@ -38,7 +38,7 @@
                         <div class="card-body">
 
                             @if (!isset($exists))
-                                Has Ingresado, <a href="/f6"> ir a la prueba!</a>
+                                Has Ingresado, <a href="/f1"> ir a la prueba!</a>
                             @else
                                 Has Ingresado, ya realizaste la prueba!
                             @endif
